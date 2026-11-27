@@ -1,0 +1,14 @@
+# Placeholder recordings (public sample Vimeo id). Real recordings will use Cloudflare Stream signed URLs (course-platform #14).
+videos:
+  lesson-1-recording:
+    provider: vimeo
+    videoId: "76979871"
+    title: "Lesson 1 recording (placeholder)"
+  lesson-2-recording:
+    provider: vimeo
+    videoId: "76979871"
+    title: "Lesson 2 recording (placeholder)"
+  lesson-3-recording:
+    provider: vimeo
+    videoId: "76979871"
+    title: "Lesson 3 recording (placeholder)"

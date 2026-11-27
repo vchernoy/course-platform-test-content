@@ -1,0 +1,10 @@
+# FAKE promo site for testing public pages loaded from another repo.
+title: "TEST · Investing classes"
+visibility: public
+navigation:
+  - title: Home
+    page: index
+  - title: Course
+    page: course
+  - title: Webinar
+    page: webinar
