@@ -5,6 +5,7 @@
 ```text
 content/offerings/test-course-2027-01/   course, unlisted: 3 lessons × topic pages, quizzes, calculator
 content/offerings/test-webinar-2027-02/  webinar, public
+content/offerings/test-locked-2027-04/   course, private, nobody enrolled (isolation check)
 content/sites/test-promo/                public promo site → /s/test-promo
 ```
 
