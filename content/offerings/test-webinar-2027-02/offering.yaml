@@ -1,0 +1,14 @@
+# FAKE test webinar (public): exercises the multi-repo content loader.
+title: "TEST · HSA in 60 minutes — Feb 2027 webinar"
+format: webinar
+description: "Fake free webinar for platform testing."
+startDate: "2027-02-05"
+endDate: "2027-02-05"
+published: true
+visibility: public
+modules:
+  - slug: session
+    title: Session
+    lessons:
+      - slug: recording
+        title: Recording and notes

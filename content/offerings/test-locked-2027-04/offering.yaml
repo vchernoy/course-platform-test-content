@@ -1,0 +1,15 @@
+# FAKE course nobody is enrolled in (customer vchernoy). Used to check customer isolation:
+# another customer's students.yaml lists this slug, and that must NOT grant access.
+title: "TEST · Locked course — Apr 2027"
+format: course
+description: "Fake course with no enrolled students; access must be denied."
+startDate: "2027-04-01"
+endDate: "2027-04-30"
+published: true
+visibility: private
+modules:
+  - slug: session
+    title: Session
+    lessons:
+      - slug: intro
+        title: Intro

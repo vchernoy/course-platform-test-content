@@ -1,0 +1,35 @@
+# FAKE test course: exercises the multi-repo content loader (see course-platform docs/content-sources.md).
+title: "TEST · Investing foundations — Jan 2027"
+format: course
+description: "Fake course for platform testing: 3 live lessons, each with topic pages, a quiz and a calculator."
+startDate: "2027-01-10"
+endDate: "2027-02-21"
+published: true
+# unlisted: the /p/ brochure page is reachable by link (for the promo site) but not indexed.
+visibility: unlisted
+modules:
+  - slug: lesson-1-accounts
+    title: "Lesson 1 · Retirement accounts"
+    lessons:
+      - slug: roth-ira
+        title: Roth IRA
+      - slug: traditional-401k
+        title: 401(k)
+      - slug: hsa
+        title: HSA
+  - slug: lesson-2-securities
+    title: "Lesson 2 · Stocks, bonds and ETFs"
+    lessons:
+      - slug: stocks
+        title: Stocks
+      - slug: bonds
+        title: Bonds
+      - slug: etfs
+        title: ETFs
+  - slug: lesson-3-compounding
+    title: "Lesson 3 · Compounding and time"
+    lessons:
+      - slug: compounding
+        title: Compounding
+      - slug: recap-quiz
+        title: Recap quiz
